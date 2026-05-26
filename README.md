@@ -27,8 +27,8 @@
 
 ## 👋 About Me
 
-가구 시공 **3년 9개월**, 웹 프론트엔드 **1년 8개월**의 실서비스 경험을 바탕으로
-AI 엔지니어로 영역을 확장해온 풀스택 AI 개발자입니다.
+가구 시공 **약 4년**, 웹 프론트엔드 **약 2년**의 실서비스 경험을 바탕으로
+AI 엔지니어로 영역을 확장해온 AI 개발자입니다.
 
 모델을 단순히 호출하는 데 그치지 않고,
 **RAG 검색 신뢰도 · LLM 서빙 · LangGraph 오케스트레이션 · 시스템 인프라**까지
@@ -64,7 +64,7 @@ LLM Multi-Agent로 사전 검증하고, **Human-in-the-Loop 기반 자동 도면
 | **Plugin** | AutoCAD C# Plugin 직접 설계 · **AutoCAD ↔ Agent 양방향 통신** |
 | **Harness** | LangGraph Tool Calling 기반 Orchestrator Multi-Agent로 도면 검토 흐름 제어 |
 
-<sub>`LangGraph` · `Qwen3.5-27B` · `QLoRA` · `pgvector` · `RRF` · `AutoCAD C#` · `RunPod` · `AWS`</sub>
+<sub>`LangGraph` · `Qwen3.5-27B` · `QLoRA` · `PostgreSQL` · `RRF` · `Reranker` · `DocLing` · `RunPod` · `AWS`</sub>
 
 <br/>
 
