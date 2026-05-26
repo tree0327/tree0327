@@ -1,135 +1,139 @@
 <div align="center">
 
-<!-- ─────────────────  H E A D E R   ───────────────── -->
+<!-- ────────────────  H E R O  ──────────────── -->
 
-<a href="https://github.com/tree0327">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a23,50:1a103d,100:00ff9f&height=240&section=header&text=tree0327&fontSize=80&fontColor=00ff9f&animation=fadeIn&fontAlignY=38&desc=root@dabin:~%23%20whoami&descSize=20&descAlignY=58&descAlign=50" width="100%" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=44&duration=2800&pause=900&color=0066CC&center=true&vCenter=true&width=720&height=72&lines=%EA%B9%80%EB%8B%A4%EB%B9%88+%C2%B7+Dabin+Kim" alt="김다빈 · Dabin Kim" />
 
-<a href="https://github.com/tree0327">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FF9F&center=true&vCenter=true&multiline=true&width=720&height=110&lines=%3E+Loading+human.exe+...+OK;%3E+%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EA%B9%80%EB%8B%A4%EB%B9%88%EC%9E%85%EB%8B%88%EB%8B%A4.;%3E+AI+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A5%BC+%EC%A4%80%EB%B9%84%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;%3E+SK+%EB%84%A4%ED%8A%B8%EC%9B%85%EC%8A%A4+Family+AI+%EC%BA%A0%ED%94%84+23%EA%B8%B0" alt="typing" />
-</a>
+### AI 엔지니어를 준비하는 개발자
 
 <br/>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=tree0327.tree0327&left_color=0a0a23&right_color=00ff9f&left_text=visitors)
-![followers](https://img.shields.io/github/followers/tree0327?label=followers&style=for-the-badge&color=00ff9f&labelColor=0a0a23)
-![repos](https://img.shields.io/badge/public%20repos-21-00ff9f?style=for-the-badge&labelColor=0a0a23)
+<sub>SK 네트웍스 Family AI 캠프 23기 · 대한민국 🇰🇷</sub>
+
+<br/>
+
+[**대표 프로젝트 →**](#-대표-프로젝트)&nbsp;&nbsp;·&nbsp;&nbsp;
+[**기술 스택 →**](#-잘-다루는-도구들)&nbsp;&nbsp;·&nbsp;&nbsp;
+[**연락하기 →**](#-연락하기)
+
+<br/>
+
+![visitors](https://img.shields.io/badge/visitors-by%20day-1d1d1f?style=flat-square&logo=apache-superset&logoColor=0066CC&labelColor=ffffff)
+![followers](https://img.shields.io/github/followers/tree0327?label=followers&style=flat-square&color=1d1d1f&labelColor=ffffff&logo=github&logoColor=0066CC)
+![repos](https://img.shields.io/badge/public%20repos-21-1d1d1f?style=flat-square&logo=git&logoColor=0066CC&labelColor=ffffff)
 
 </div>
 
----
-
-## ``` $ whoami ```
-
-```bash
-┌──(dabin㉿tree0327)-[~]
-└─$ cat ./profile.json
-```
-
-```json
-{
-  "name":     "김다빈 (Dabin Kim)",
-  "role":     "AI Engineer in training",
-  "track":    "SK Networks Family AI Camp · 23기",
-  "based_in": "Republic of Korea 🇰🇷",
-  "email":    "superkdb0918@gmail.com",
-
-  "current_focus": [
-    "🧠 AutoCAD × sLLM 플러그인 팀 프로젝트 (졸업 작품)",
-    "📝 Document Summarization 시스템 (Docling + GPT-4o)",
-    "📊 AI Engineering 벤치마크 (pgvector / RLS / face latency)",
-    "💼 AI 엔지니어 취업 포트폴리오 빌딩"
-  ],
-
-  "next_milestones": {
-    "중간발표": "2026-04-30",
-    "최종발표": "2026-05-20"
-  },
-
-  "interests": [
-    "LLM · RAG · Fine-tuning",
-    "Multimodal & NLP",
-    "FastAPI · React 풀스택",
-    "재현 가능한 ML 벤치마킹"
-  ]
-}
-```
+<br/>
 
 ---
 
-## ``` $ cat tech-stack.txt ```
+## 👋 안녕하세요
 
-#### `🧬 Languages`
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=00ff9f&labelColor=0a0a23)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=00ff9f&labelColor=0a0a23)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0a0a23&labelColor=0a0a23)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=00ff9f&labelColor=0a0a23)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=00ff9f&labelColor=0a0a23)
+저는 **김다빈**이라고 합니다.
+지금은 **SK 네트웍스 Family AI 캠프 23기**에서 AI 엔지니어가 되기 위해 공부하고 있어요.
 
-#### `🤖 AI / ML`
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=00ff9f&labelColor=0a0a23)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=0a0a23&labelColor=0a0a23)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00ff9f&labelColor=0a0a23)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=00ff9f&labelColor=0a0a23)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=00ff9f&labelColor=0a0a23)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=00ff9f&labelColor=0a0a23)
+**"AI 기술을 진짜 사람이 쓰는 제품으로 만드는 일"** 에 가장 큰 흥미를 느낍니다.
+그래서 모델만 다루는 것이 아니라, **데이터 수집 → 모델 → API 서버 → 사용자 화면**까지 전 과정을 직접 만들어보려고 노력해요.
 
-#### `⚙️ Backend / Frontend`
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=00ff9f&labelColor=0a0a23)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0a0a23&labelColor=0a0a23)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=00ff9f&labelColor=0a0a23)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00ff9f&labelColor=0a0a23)
+> 처음 들어오신 분께 — 이 페이지 아래로 내려가시면, 제가 어떤 프로젝트를 만들었고 어떤 도구를 다루는지 한눈에 보실 수 있어요.
 
-#### `🗄️ Data & Infra`
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=00ff9f&labelColor=0a0a23)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=00ff9f&labelColor=0a0a23)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=0a0a23&labelColor=0a0a23)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=00ff9f&labelColor=0a0a23)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=00ff9f&labelColor=0a0a23)
+<br/>
 
-#### `🛠️ Tools`
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=00ff9f&labelColor=0a0a23)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=0a0a23&labelColor=0a0a23)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=00ff9f&labelColor=0a0a23)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=00ff9f&labelColor=0a0a23)
+### 🛠️ 요즘 만드는 것들
+
+| 프로젝트 | 한 줄 설명 |
+|---|---|
+| 🏗️ **AutoCAD × sLLM 플러그인** | 건축/설계 도면 작업을 LLM이 보조해주는 졸업 작품 (팀 프로젝트) |
+| 📝 **문서 요약 시스템** | PDF · DOCX 등을 업로드하면 GPT-4o가 한국어로 요점을 정리 |
+| 📊 **AI 엔지니어링 벤치마크** | "이 기술이 진짜 빠르냐?"를 직접 측정해 수치로 증명하는 프로젝트 |
+
+### 📅 발표 일정
+
+| 구분 | 날짜 |
+|---|---|
+| 중간 발표 | **2026 - 04 - 30** |
+| 최종 발표 | **2026 - 05 - 20** |
+
+<br/>
 
 ---
 
-## ``` $ ls -la ~/projects/ ```
+## 🧰 잘 다루는 도구들
 
-```bash
-total 21
-drwxr-xr-x  dabin  staff   AI/ML + Full-stack
--rw-r--r--  pinned 4  ← featured below
-```
+> 자주 쓰는 것 위주로 정리했어요. 학습한 적 있는 도구는 더 많지만, **"실제 프로젝트에서 써본"** 것만 적었습니다.
+
+#### 💬 프로그래밍 언어
+![Python](https://img.shields.io/badge/Python-1d1d1f?style=flat-square&logo=python&logoColor=0066CC&labelColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-1d1d1f?style=flat-square&logo=typescript&logoColor=0066CC&labelColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-1d1d1f?style=flat-square&logo=javascript&logoColor=0066CC&labelColor=ffffff)
+![SQL](https://img.shields.io/badge/SQL-1d1d1f?style=flat-square&logo=postgresql&logoColor=0066CC&labelColor=ffffff)
+
+#### 🤖 인공지능 · 머신러닝
+![PyTorch](https://img.shields.io/badge/PyTorch-1d1d1f?style=flat-square&logo=pytorch&logoColor=0066CC&labelColor=ffffff)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1d1d1f?style=flat-square&logo=huggingface&logoColor=0066CC&labelColor=ffffff)
+![LangChain](https://img.shields.io/badge/LangChain-1d1d1f?style=flat-square&logo=langchain&logoColor=0066CC&labelColor=ffffff)
+![OpenAI](https://img.shields.io/badge/OpenAI-1d1d1f?style=flat-square&logo=openai&logoColor=0066CC&labelColor=ffffff)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-1d1d1f?style=flat-square&logo=scikit-learn&logoColor=0066CC&labelColor=ffffff)
+![Pandas](https://img.shields.io/badge/Pandas-1d1d1f?style=flat-square&logo=pandas&logoColor=0066CC&labelColor=ffffff)
+![NumPy](https://img.shields.io/badge/NumPy-1d1d1f?style=flat-square&logo=numpy&logoColor=0066CC&labelColor=ffffff)
+
+#### 🌐 웹 · 백엔드 · 프론트엔드
+![FastAPI](https://img.shields.io/badge/FastAPI-1d1d1f?style=flat-square&logo=fastapi&logoColor=0066CC&labelColor=ffffff)
+![Flask](https://img.shields.io/badge/Flask-1d1d1f?style=flat-square&logo=flask&logoColor=0066CC&labelColor=ffffff)
+![React](https://img.shields.io/badge/React-1d1d1f?style=flat-square&logo=react&logoColor=0066CC&labelColor=ffffff)
+![Streamlit](https://img.shields.io/badge/Streamlit-1d1d1f?style=flat-square&logo=streamlit&logoColor=0066CC&labelColor=ffffff)
+
+#### 🗄️ 데이터 · 인프라
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1d1d1f?style=flat-square&logo=postgresql&logoColor=0066CC&labelColor=ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-1d1d1f?style=flat-square&logo=mysql&logoColor=0066CC&labelColor=ffffff)
+![Supabase](https://img.shields.io/badge/Supabase-1d1d1f?style=flat-square&logo=supabase&logoColor=0066CC&labelColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-1d1d1f?style=flat-square&logo=docker&logoColor=0066CC&labelColor=ffffff)
+![AWS](https://img.shields.io/badge/AWS-1d1d1f?style=flat-square&logo=amazonaws&logoColor=0066CC&labelColor=ffffff)
+
+#### 🧑‍💻 협업 도구
+![Git](https://img.shields.io/badge/Git-1d1d1f?style=flat-square&logo=git&logoColor=0066CC&labelColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-1d1d1f?style=flat-square&logo=github&logoColor=0066CC&labelColor=ffffff)
+![Notion](https://img.shields.io/badge/Notion-1d1d1f?style=flat-square&logo=notion&logoColor=0066CC&labelColor=ffffff)
+![VSCode](https://img.shields.io/badge/VSCode-1d1d1f?style=flat-square&logo=visualstudiocode&logoColor=0066CC&labelColor=ffffff)
+
+<br/>
+
+---
+
+## 📦 대표 프로젝트
+
+> 제 GitHub에는 **21개의 저장소**가 있어요. 그중에서 **"가장 봐주셨으면 하는 4개"** 만 골랐습니다.
+> 각 카드를 클릭하면 해당 저장소로 이동해요.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/tree0327/document-summary-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tree0327&repo=document-summary-system&theme=radical&hide_border=true&bg_color=0a0a23&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tree0327&repo=document-summary-system&theme=default&hide_border=true&bg_color=ffffff&title_color=0066CC&icon_color=0066CC&text_color=1d1d1f" />
 </a>
 
-**📄 Document Summary System**
-> Docling으로 문서 파싱 → GPT-4o 요약 → FastAPI 서버 + React UI.
-> 한국어 PDF · DOCX · HWP 까지 멀티 포맷 처리.
+#### 📝 문서 요약 시스템
 
-`TypeScript` `Python` `FastAPI` `OpenAI` `Docling`
+긴 PDF · DOCX · HWP 문서를 업로드하면, **GPT-4o가 한국어로 핵심을 요약해주는 웹 서비스**입니다.
+백엔드는 FastAPI, 프론트엔드는 React로 만들었고, Docling으로 다양한 문서 형식을 파싱했어요.
+
+<sub>`Python` · `TypeScript` · `FastAPI` · `React` · `OpenAI` · `Docling`</sub>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/tree0327/ai_benchmarks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tree0327&repo=ai_benchmarks&theme=radical&hide_border=true&bg_color=0a0a23&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tree0327&repo=ai_benchmarks&theme=default&hide_border=true&bg_color=ffffff&title_color=0066CC&icon_color=0066CC&text_color=1d1d1f" />
 </a>
 
-**⚡ AI Engineering Benchmarks**
-> Supabase **pgvector hybrid search**, RLS 오버헤드, face inference latency를 직접 측정.
-> 포트폴리오 수치를 "주장"이 아니라 **재현 가능한 측정**으로.
+#### ⚡ AI 엔지니어링 벤치마크
 
-`Python` `pgvector` `Supabase` `Benchmark`
+"이 기술이 정말 빠른가?"를 **말이 아닌 숫자로 증명**하기 위한 측정 도구 모음이에요.
+Supabase `pgvector` 하이브리드 검색 속도, RLS 오버헤드, 얼굴 인식 추론 지연 등을 직접 측정합니다.
+
+<sub>`Python` · `Supabase` · `pgvector` · `Benchmark`</sub>
 
 </td>
 </tr>
@@ -137,113 +141,107 @@ drwxr-xr-x  dabin  staff   AI/ML + Full-stack
 <td width="50%" valign="top">
 
 <a href="https://github.com/tree0327/MultiModal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tree0327&repo=MultiModal&theme=radical&hide_border=true&bg_color=0a0a23&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tree0327&repo=MultiModal&theme=default&hide_border=true&bg_color=ffffff&title_color=0066CC&icon_color=0066CC&text_color=1d1d1f" />
 </a>
 
-**🎨 MultiModal Lab**
-> 텍스트 · 이미지 · 음성을 함께 다루는 멀티모달 학습 노트북 모음.
-> CLIP, BLIP, Whisper 등 SOTA 실습.
+#### 🎨 멀티모달 학습 노트북
 
-`Jupyter` `PyTorch` `Transformers` `CV+NLP`
+텍스트 · 이미지 · 음성을 **함께 다루는 모델**을 공부한 기록입니다.
+CLIP으로 이미지를 검색하고, BLIP으로 캡션을 만들고, Whisper로 음성을 받아 적는 실습을 담았어요.
+
+<sub>`Jupyter` · `PyTorch` · `Transformers` · `CLIP` · `BLIP` · `Whisper`</sub>
 
 </td>
 <td width="50%" valign="top">
 
 <a href="https://github.com/tree0327/hyundai_faq">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tree0327&repo=hyundai_faq&theme=radical&hide_border=true&bg_color=0a0a23&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tree0327&repo=hyundai_faq&theme=default&hide_border=true&bg_color=ffffff&title_color=0066CC&icon_color=0066CC&text_color=1d1d1f" />
 </a>
 
-**🚗 Hyundai FAQ Crawler**
-> 현대자동차 FAQ 크롤링 → 정제된 Q&A 데이터셋.
-> RAG / 파인튜닝용 한국어 도메인 데이터.
+#### 🚗 현대자동차 FAQ 데이터셋
 
-`Python` `Crawling` `Dataset` `NLP`
+**RAG · 챗봇 학습용 한국어 도메인 데이터**가 필요해서 직접 만든 프로젝트입니다.
+현대자동차 공식 FAQ를 크롤링하고 정제해 질문 - 답변 쌍으로 정리했어요.
+
+<sub>`Python` · `Web Crawling` · `한국어 NLP` · `Dataset`</sub>
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>📚 More repos — 수업 · 자습 · 실습 아카이브 (펼치기)</b></summary>
+<summary><b>📚 더 보기 — 수업 · 자습 · 실습 저장소 12개 (펼치기)</b></summary>
 
-| Repo | Stack | What |
-|------|-------|------|
-| [LLM](https://github.com/tree0327/LLM) | Jupyter | LLM 수업 노트북 |
-| [NLP](https://github.com/tree0327/NLP) | Jupyter | NLP 수업 자료 |
-| [Deep-Learning](https://github.com/tree0327/Deep-Learning) | Jupyter | 딥러닝 학습 |
-| [Machine-Learning](https://github.com/tree0327/Machine-Learning) | Jupyter | 머신러닝 학습 |
-| [Analize_Data](https://github.com/tree0327/Analize_Data) | Jupyter | 데이터 분석 |
-| [web_crawling](https://github.com/tree0327/web_crawling) | Jupyter | 웹 크롤링 실습 |
-| [web-server](https://github.com/tree0327/web-server) · [web-client](https://github.com/tree0327/web-client) | Python · HTML | 풀스택 수업 |
-| [python_mysql](https://github.com/tree0327/python_mysql) | Python | Python ↔ MySQL 연동 |
-| [streamlit](https://github.com/tree0327/streamlit) | Python | Streamlit 스터디 |
-| [happy-cote](https://github.com/tree0327/happy-cote) | Python | 백준 코딩테스트 자동 푸시 |
-| [PythonBasic](https://github.com/tree0327/PythonBasic) · [AI_STUDY](https://github.com/tree0327/AI_STUDY) | Jupyter | SK AI 캠프 23기 강의 기록 |
-| [self-study](https://github.com/tree0327/self-study) | Jupyter | 예복습 · 자습 |
+<br/>
+
+| 저장소 | 내용 |
+|---|---|
+| [LLM](https://github.com/tree0327/LLM) | LLM 수업 노트북 — 프롬프트 엔지니어링, 파인튜닝, RAG |
+| [NLP](https://github.com/tree0327/NLP) | 자연어 처리 — 토큰화부터 트랜스포머까지 |
+| [Deep-Learning](https://github.com/tree0327/Deep-Learning) | 딥러닝 기초 — CNN, RNN, 어텐션 |
+| [Machine-Learning](https://github.com/tree0327/Machine-Learning) | 머신러닝 기초 — 회귀, 분류, 클러스터링 |
+| [Analize_Data](https://github.com/tree0327/Analize_Data) | 데이터 분석 — Pandas, 시각화, EDA |
+| [web_crawling](https://github.com/tree0327/web_crawling) | 웹 크롤링 — BeautifulSoup, Selenium |
+| [web-server](https://github.com/tree0327/web-server) · [web-client](https://github.com/tree0327/web-client) | 풀스택 웹 개발 수업 |
+| [python_mysql](https://github.com/tree0327/python_mysql) | Python ↔ MySQL 연동 실습 |
+| [streamlit](https://github.com/tree0327/streamlit) | Streamlit 빠른 프로토타이핑 |
+| [happy-cote](https://github.com/tree0327/happy-cote) | 백준 알고리즘 자동 푸시 (코딩 테스트 연습) |
+| [PythonBasic](https://github.com/tree0327/PythonBasic) · [AI_STUDY](https://github.com/tree0327/AI_STUDY) | SK AI 캠프 23기 강의 기록 |
+| [self-study](https://github.com/tree0327/self-study) | 예복습 · 자습 노트 |
 
 </details>
 
+<br/>
+
 ---
 
-## ``` $ git log --stat --author=tree0327 ```
+## 📈 GitHub 기록
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tree0327&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a23&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tree0327&theme=radical&hide_border=true&background=0a0a23&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=tree0327&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0066CC&icon_color=0066CC&text_color=1d1d1f&include_all_commits=true&count_private=true&ring_color=0066CC" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tree0327&hide_border=true&background=ffffff&ring=0066CC&fire=0066CC&currStreakLabel=0066CC&sideLabels=1d1d1f&dates=1d1d1f&currStreakNum=1d1d1f&sideNums=1d1d1f&stroke=1d1d1f" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tree0327&layout=compact&theme=radical&hide_border=true&bg_color=0a0a23&title_color=00ff9f&text_color=ffffff&langs_count=10" height="180" />
-<img src="https://github-profile-trophy.vercel.app/?username=tree0327&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tree0327&layout=compact&hide_border=true&bg_color=ffffff&title_color=0066CC&text_color=1d1d1f&langs_count=8" height="170" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tree0327&theme=minimal&bg_color=ffffff&hide_border=true&line=0066CC&color=0066CC&point=1d1d1f&area=true&area_color=cce0ff&title_color=0066CC" height="170" />
 
 </div>
 
----
+### 🐍 1년치 커밋 그래프
 
-## ``` $ ./contribution-graph --animate ```
+> GitHub에서 매일 풀밭처럼 보이는 잔디 그래프, 기억하시죠? 그 위를 뱀이 돌아다닙니다. 12시간마다 자동으로 새로 그려져요.
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tree0327/tree0327/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tree0327/tree0327/output/github-contribution-grid-snake.svg" />
-  <img alt="github snake animation" src="https://raw.githubusercontent.com/tree0327/tree0327/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/tree0327/tree0327/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tree0327&theme=react-dark&bg_color=0a0a23&hide_border=true&line=00ff9f&color=00ff9f&point=ffffff&area=true&area_color=00ff9f)](https://github.com/tree0327)
 
 </div>
 
+<br/>
+
 ---
 
-## ``` $ ./contact.sh --me ```
+## 📮 연락하기
 
-```bash
-$ curl -s https://api.dabin.dev/whoami | jq
-```
-
-```json
-{
-  "email":  "superkdb0918@gmail.com",
-  "github": "https://github.com/tree0327",
-  "status": "💼 AI 엔지니어 채용/협업 제안 환영합니다"
-}
-```
+> AI 엔지니어 채용 · 협업 · 그냥 인사 모두 환영입니다. 가장 빠른 건 이메일이에요.
 
 <div align="center">
 
 <a href="mailto:superkdb0918@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=00ff9f&labelColor=0a0a23" />
+  <img src="https://img.shields.io/badge/superkdb0918@gmail.com-1d1d1f?style=for-the-badge&logo=gmail&logoColor=0066CC&labelColor=ffffff" />
 </a>
 <a href="https://github.com/tree0327">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00ff9f&labelColor=0a0a23" />
+  <img src="https://img.shields.io/badge/@tree0327-1d1d1f?style=for-the-badge&logo=github&logoColor=0066CC&labelColor=ffffff" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,50:1a103d,100:0a0a23&height=120&section=footer&text=%24%20exit%200&fontSize=24&fontColor=00ff9f&fontAlignY=70" width="100%" />
-
-<sub>⌨️ <code>~ with caffeine, curiosity, and a lot of <b>git push --force-with-lease</b></code></sub>
+<sub>읽어주셔서 감사합니다. 좋은 하루 되세요. ☕</sub>
 
 </div>
